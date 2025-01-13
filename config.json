@@ -1,6 +1,11 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"风绘之境",
+    "subTitle":"风绘之境-MC原版纯净生存服务器",
+    "avatarUrl":"https://mcdoc.lcqne.cn/风绘之境.png",
+    "GMEEK_VERSION":"last",
+    "email":"mc.lcqne.cn",
+    "startSite":"13/01/2025",
+    singlePage":["about"],
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
